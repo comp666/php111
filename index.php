@@ -32,4 +32,17 @@ $taptap="тест";
 	   define ("PI","3,14",true);
 	   echo PI;
 
+if(is_integer())
+
+	echo "int";
+    else
+	echo "not int";
+	
+	
+if(is_string())
+
+	echo "int";
+    else
+	echo "not str";
+
 ?>
